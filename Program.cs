@@ -34,7 +34,7 @@ namespace Concepts
             
             int i = 0;
 
-            do
+            do      // DO & WHILE
             {
                 Console.WriteLine("Value of i: {0}", i);
                 int j = i;
